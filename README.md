@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I'm currently working as a Senior Product Manager in Healthcare.
+#- 🔭 I'm currently working as a Senior Product Manager in Healthcare.
 - 🌱 I'm currently working on my Master's in Data Science.
 - 🌱 I'm currently learning about Data Stewardship, Governance, Management, and Machine Learning Model Optimization.
 - 👯 I'm looking to collaborate on contract work opportunities.
