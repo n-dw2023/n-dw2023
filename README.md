@@ -10,3 +10,6 @@ About Me:
 - 💬 Ask me about philosophy!
 - 📫 How to reach me: [nick.dataworks@gmail.com](mailto:nick.dataworks@gmail.com)
 
+Topics of Interest:
+- Data-Engineering: Crash Course [https://github.com/DataTalksClub/data-engineering-zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp)
+- Data-Storage: Javascript Offline Database [https://github.com/pubkey/rxdb](https://github.com/pubkey/rxdb)
